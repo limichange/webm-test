@@ -31,7 +31,7 @@ export default function Home() {
           }}
         />
 
-        <video src={path}></video>
+        <video controls src={path}></video>
       </main>
     </>
   )
